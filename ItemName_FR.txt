@@ -1,0 +1,3 @@
+ItemName_FR = {
+	ItemName_Base.BedfordMap = "Carte de Bedford Falls",
+}
